@@ -1,0 +1,2 @@
+# Machine_Learning_Coursera_Assignments_AndrewNG
+This repo contains the 8 programming assignments (completed) which I did during my course completion time.... If you are pursuing that course, I wouldn't recommend copy and paste from this repo... but you can just try and understand the flow of code if that would help you.... I am uploading it to keep it as a record for me. And for people who only need reference.
